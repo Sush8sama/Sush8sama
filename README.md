@@ -2,23 +2,11 @@
 
 # 😄 About me
 🧑‍🎓 Computer science master's student at KU Leuven<br/>
-🔭 Looking for internship and money
-🌱 Learning how to design
-🛑 working on my protofolio website
-💭 Trying out trying
+🔭 Looking for internship and money<br/>
+🌱 Learning how to design<br/>
+🛑 working on my protofolio website<br/>
+💭 Trying out trying<br/>
 
-[![Hanzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sush8sama)](https://github.com/Sush8sama/github-readme-stats&show_icons=true&theme=tokyonight)
-<!--
-**Sush8sama/Sush8sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Hanzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sush8sama&show_icons=true&theme=tokyonight)](https://github.com/Sush8sama/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
