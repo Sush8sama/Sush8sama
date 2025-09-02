@@ -1,5 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm Hanzhe Wang || 王翰哲
 
+# 😄 About me
+🧑‍🎓 Computer science master's student at KU Leuven<br/>
+🔭 Looking for internship and money
+🌱 Learning how to design
+🛑 working on my protofolio website
+💭 Trying out trying
+
+[![Hanzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sush8sama)](https://github.com/Sush8sama/github-readme-stats&show_icons=true&theme=tokyonight)
 <!--
 **Sush8sama/Sush8sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
