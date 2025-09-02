@@ -10,3 +10,5 @@
 <!--Github stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Hanzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sush8sama&show_icons=true&theme=tokyonight)](https://github.com/Sush8sama/github-readme-stats)
 
+<!--Github badges from https://github.com/Ileriayo/markdown-badges -->
+
