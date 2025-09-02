@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hanzhe Wang || 王翰哲
 
-# 😄 About me
+## 😄 About me
 🧑‍🎓 Computer science master's student at KU Leuven<br/>
 🔭 Looking for internship and money<br/>
 🌱 Learning how to design<br/>
